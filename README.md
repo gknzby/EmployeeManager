@@ -1,4 +1,5 @@
 One of my student projects. It's awfully designed(Software design), so it's not reliable. It was coded in a few days and I was a newbie.
+**There are screensohts in _screenshoots folder
 
 Note: The first registered user automatically becomes an admin.
 
